@@ -22,7 +22,7 @@ The Weather App is built using the following technologies:
 
 1. Clone the repository to your local machine.
 ```bash
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/Gaurav-bhardwaj7220/weather-App.git
 ```
 2. Open the weather.html file in your preferred web browser.
 
